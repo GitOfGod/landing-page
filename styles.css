@@ -1,8 +1,15 @@
 body {
     font-family: Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 .header {
     background-color: #1F2937;
     color: white;
+}
+
+.menu {
+    display: flex;
+    list-style-type: none;
 }
