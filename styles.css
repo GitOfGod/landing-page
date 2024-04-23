@@ -9,6 +9,7 @@ body {
     flex-direction: column;
     padding-left: 150px;
     padding-right: 150px;
+    max-width: 900px;
     background-color: #1F2937;
     color: white;
 
@@ -37,4 +38,13 @@ body {
     margin-left: 20px;
     font-weight: 18px;
     color: #e5e7eb;
+}
+
+#hero {
+    display: flex;
+    flex-direction: row;    
+}
+
+#call-to-action {
+    margin-right: 50px;
 }
