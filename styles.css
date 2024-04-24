@@ -7,7 +7,7 @@ body {
 }
 
 .header {
-    flex-direction: column;
+
     padding-left: 150px;
     padding-right: 150px;
     max-width: 900px;
