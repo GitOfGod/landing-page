@@ -73,3 +73,9 @@ button {
     border-radius: 5px;
     border-width: 0;
 }
+
+.info-header {
+    font-weight: 900;
+    font-size: 36px;
+    color:#1F2937;
+}
