@@ -74,15 +74,27 @@ button {
     border-width: 0;
 }
 
+.info {
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .info-header {
     font-weight: 900;
     font-size: 36px;
     color:#1F2937;
 }
 
+.box-group {
+    display: flex;
+    justify-content: center;
+}
+
 .img-container {
-    width: 50px;
-    height: 50px;
+    width: 150px;
+    height: 150px;
     border: 2px solid #3882f6;
     border-radius: 5px;
 }
