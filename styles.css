@@ -126,4 +126,15 @@ button {
     color:#1F2937;
     font-weight: bolder;
 }
+.fourth-container {
+    max-width: 900px;
+    padding: 75px 150px 75px 150px;
+}
 
+.cta-section {
+    width:900px;
+    height: 150px;
+    border-radius: 5px;
+    background-color: #3882f6;
+    display: flex;
+}
