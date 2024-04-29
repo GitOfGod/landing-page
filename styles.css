@@ -62,7 +62,7 @@ body {
 
 }
 
-#hero-secondary {
+.hero-secondary {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -139,4 +139,15 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.cta-header {
+    color: white;
+    font-weight: 900;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.cta-text {
+    margin-top: 5px;
 }
