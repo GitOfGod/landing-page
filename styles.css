@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     align-items: center;
     margin-top: 0;
+    margin-bottom: 0;
 
 }
 
@@ -165,4 +166,12 @@ button {
     color:white;
     width: 1200px;
     height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #e5e7eb;
 }
